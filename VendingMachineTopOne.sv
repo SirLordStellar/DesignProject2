@@ -1,5 +1,5 @@
 /*
-	Project Title: $0.70 Vending Machine
+	Project Title: $0.50 Vending Machine
 	Author: Sophia Pole
 
 */
